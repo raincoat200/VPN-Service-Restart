@@ -13,6 +13,10 @@
 
 ![运行日志截图](https://github.com/raincoat200/VPN-Service-Restart/blob/master/demo/1.png)     
 
+![运行日志截图](https://github.com/raincoat200/VPN-Service-Restart/blob/master/demo/2.png)     
+
+![运行日志截图](https://github.com/raincoat200/VPN-Service-Restart/blob/master/demo/3.png)     
+
 ---
 
 ##脚本环境：
